@@ -77,4 +77,5 @@ plt.show()
 
 
 # Results
-Therefor a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is excecuted.
+The program successfully generated and plotted the original signal along with ideal, natural, and flat-top sampled signals. The Nyquist condition was satisfied (fs ≥ 2fm), so no aliasing occurred and the sampling was accurate.
+
