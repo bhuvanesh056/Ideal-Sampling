@@ -77,5 +77,5 @@ plt.show()
 
 
 # Results
-The program successfully generated and plotted the original signal along with ideal, natural, and flat-top sampled signals. \
+The program successfully generated and plotted the original signal along with ideal, natural, and flat-top sampled signals. 
 
