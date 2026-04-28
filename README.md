@@ -77,5 +77,5 @@ plt.show()
 
 
 # Results
-The program successfully generated and plotted the original signal along with ideal, natural, and flat-top sampled signals. The Nyquist condition was satisfied (fs ≥ 2fm), so no aliasing occurred and the sampling was accurate.
+The program successfully generated and plotted the original signal along with ideal, natural, and flat-top sampled signals. \
 
